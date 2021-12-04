@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "item": "chocolate chip cookies",
+        "price": 8.99,
+        "quantity": 12,
+        "imageURL": "https://handletheheat.com/wp-content/uploads/2020/10/BAKERY-STYLE-CHOCOLATE-CHIP-COOKIES-9-637x637-1.jpg"
+    }, 
+    {
+        "id": 2,
+        "item": "snickerdoodles",
+        "price": 7.99,
+        "quantity": 12,
+        "imageURL": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2013/05/snickerdoodles-recipe-5.jpg"
+    },
+    {
+        "id": 3,
+        "item": "cinnamon rolls",
+        "price": 10.99,
+        "quantity": 12,
+        "imageURL": "https://www.cookingclassy.com/wp-content/uploads/2020/09/mini-cinnamon-rolls-21.jpg"
+    }, 
+    {
+        "id": 4,
+        "item": "peanut butter blossoms",
+        "price": 6.99,
+        "quantity": 12,
+        "imageURL": "https://i.etsystatic.com/25159228/r/il/b53707/2685032355/il_1588xN.2685032355_833l.jpg"
+    }
+]
